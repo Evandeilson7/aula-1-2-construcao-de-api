@@ -1,0 +1,6 @@
+1 primeiro baizar as ferramentas , depois seguir os passos que o  Como rodar a API
+1. No terminal, dentro da pasta do projeto, rode:
+node app.js
+2. Use o Postman ou Insomnia para testar:
+3. segui os passos teste as atualizaçes se der erros, e muito comun então recomendo que tente volta no inicio e testa novamente 
+4. eu usei as ferramentas como node.js pela prmeira vez e foi super intuitivo,aconselho a ver alguns videos sobre como baixar e etc 
